@@ -1,4 +1,4 @@
-
+//create table in sql mysql> create table employee(name varchar(50),id int, salary double);
 import java.sql.*;
 import java.util.*;
 
